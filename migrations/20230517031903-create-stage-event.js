@@ -14,7 +14,7 @@ module.exports= {
             },
             event_id: {
                 type: Sequelize>SMALLINT,
-                ALLOWNULL: FALSE
+                allowNull: false
             }
         })   
     },
