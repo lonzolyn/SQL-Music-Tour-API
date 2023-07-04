@@ -2,7 +2,7 @@
   "development": {
     "username": "postgres",
     "password": "lance",
-    "database": "music_tour_",
+    "database": "music_tour",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
